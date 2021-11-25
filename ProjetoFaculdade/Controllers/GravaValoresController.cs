@@ -98,5 +98,25 @@ namespace ProjetoFaculdade.Controllers
                 return StatusCode(500, ret);
             }
         }
+
+        [HttpDelete("RemoverMensagens")]
+        public ActionResult<StatusResult> RemoverMensagens(int id)
+        {
+            var ret = new StatusResult();
+            try
+            {
+                var row = _applicationDBContext.tb_dados.Find(id);
+                _applicationDBContext.tb_dados.Remove(row);
+                _applicationDBContext.SaveChanges();
+
+                return Ok(ret);
+            }
+            catch (Exception e)
+            {
+                ret.Sucesso = false;
+                ret.Mensagem = e.Message;
+                return StatusCode(500, ret);
+            }
+        }
     }
 }
