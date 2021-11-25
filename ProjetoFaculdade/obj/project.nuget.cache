@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PCsMVYPOKOQmQppl1E65gd9V7Yc0HmrsAWnOcpbFNLJVPQlNl93C6l7V1F6pWYXG2FBe4/q9hHDI8oBQdkqu+w==",
+  "dgSpecHash": "t3kDC/yKsrH1wgtYo0dFDcv4BvCebJipUdscDUBcxiXNpGhgNdU0R9X/Vsdj9ROlZ9ZrGZx/CWoxWC7DZAyiUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fgonzalez\\Desktop\\Faculdade\\Projeto\\ProjetoFaculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj",
+  "projectFilePath": "C:\\Users\\fgonzalez\\Documents\\projeto_faculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fgonzalez\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\fgonzalez\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",

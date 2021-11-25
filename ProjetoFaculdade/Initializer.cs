@@ -12,13 +12,7 @@ namespace ProjetoFaculdade.API
     {
         public static void Configure(IServiceCollection services, IConfiguration config)
         {
-            //ClientConfig.SetConfiguration(ref config);
-            //var connectionString = config.GetConnectionString("ColaboradorConnection");
-            //services.AddDbContext<ColaboradorContext>(x => x.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
-
-            //services.AddScoped(typeof(IHobbyService), typeof(HobbyService));
             services.AddScoped(typeof(ApplicationDBContext), typeof(ApplicationDBContext));
-            //services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fgonzalez\\Desktop\\Faculdade\\Projeto\\ProjetoFaculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj": {}
+    "C:\\Users\\fgonzalez\\Documents\\projeto_faculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fgonzalez\\Desktop\\Faculdade\\Projeto\\ProjetoFaculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj": {
+    "C:\\Users\\fgonzalez\\Documents\\projeto_faculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fgonzalez\\Desktop\\Faculdade\\Projeto\\ProjetoFaculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj",
+        "projectUniqueName": "C:\\Users\\fgonzalez\\Documents\\projeto_faculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj",
         "projectName": "ProjetoFaculdade.API",
-        "projectPath": "C:\\Users\\fgonzalez\\Desktop\\Faculdade\\Projeto\\ProjetoFaculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj",
+        "projectPath": "C:\\Users\\fgonzalez\\Documents\\projeto_faculdade\\ProjetoFaculdade\\ProjetoFaculdade.API.csproj",
         "packagesPath": "C:\\Users\\fgonzalez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fgonzalez\\Desktop\\Faculdade\\Projeto\\ProjetoFaculdade\\ProjetoFaculdade\\obj\\",
+        "outputPath": "C:\\Users\\fgonzalez\\Documents\\projeto_faculdade\\ProjetoFaculdade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fgonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
